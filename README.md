@@ -23,6 +23,7 @@ Hi! I'm **Nam** (also known as **Izumi** 🎋) — an AI Researcher based in Han
 - 📝 Paper accepted at **CITA 2026** (Springer) on Explainable Cardiac Diagnosis with Multimodal LLMs
 - 🌐 **Languages:** Vietnamese 🇻🇳 · English (IELTS 6.0) · Japanese 🇯🇵 (JLPT N5)
 - 🎯 **Goal:** PhD in AI — XAI · Multimodal Learning · Agentic LLM Systems
+- 🔗 **Website:** [nonomiyaizumi.github.io/Profile_web](https://nonomiyaizumi.github.io/Profile_web/)
 
 ---
 
@@ -107,6 +108,7 @@ Hi! I'm **Nam** (also known as **Izumi** 🎋) — an AI Researcher based in Han
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-nonomiyaizumi.github.io-FF6B6B?style=for-the-badge&logo=githubpages&logoColor=white)](https://nonomiyaizumi.github.io/Profile_web/)
 [![GitHub](https://img.shields.io/badge/GitHub-NonomiyaIzumi-181717?style=for-the-badge&logo=github)](https://github.com/NonomiyaIzumi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nam--vng-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nam-h%E1%BA%A3i-62843a3a2/)
 [![Email](https://img.shields.io/badge/Email-namvdh.bai%40st.neu.edu.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namvdh.bai@st.neu.edu.vn)
