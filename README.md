@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nam%20%7C%20Vuong%20Duy%20Hai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Undergraduate%20AI%20Researcher%20%C2%B7%20FPT%20University%20%C2%B7%20Hanoi%2C%20Vietnam&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nam%20%7C%20Vuong%20Duy%20Hai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Researcher%20%C2%B7%20FPT%20University%20%C2%B7%20Hanoi%2C%20Vietnam&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=Undergraduate+Researcher+in+Generative+AI+%F0%9F%8C%B8;Multimodal+Learning+%7C+XAI+%7C+Multi-agent+Systems;Seeking+an+AI+Internship+%F0%9F%8E%AF;Building+Explainable+AI+for+Healthcare+%26+Business+%F0%9F%8F%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=Researcher+in+Generative+AI+%F0%9F%8C%B8;Multimodal+Learning+%7C+XAI+%7C+Multi-agent+Systems;Seeking+an+AI+Internship+%F0%9F%8E%AF;Building+Explainable+AI+for+Healthcare+%26+Business+%F0%9F%8F%A5" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -16,14 +16,14 @@
 
 > *"Intelligence without wisdom is just computation."*
 
-Hi! I'm **Nam Vuong Duy Hai** — an undergraduate researcher in Generative AI, multimodal learning, and multi-agent systems based in Hanoi, Vietnam.
+Hi! I'm **Nam Vuong Duy Hai** — a researcher in Generative AI, multimodal learning, and multi-agent systems based in Hanoi, Vietnam.
 
 - 🎓 **B.Sc. Computer Science** @ [FPT University](https://daihoc.fpt.edu.vn/) *(Data Science & Artificial Intelligence — Sep 2024 to Present — GPA 3.1/4.0)*
 - 📘 **Coursework:** Data Science · Machine Learning · Computer Vision · Natural Language Processing
-- 🔬 **Research Assistant** @ [Business AI Lab](https://bailab.vn), National Economics University *(Aug 2025 to Present — Onsite)*
-- 📝 Peer-reviewed paper accepted at **CITA 2026** on explainable cardiac diagnosis with Guide-Grounded Multimodal LLMs
+- 🔬 **Researcher** @ [Business AI Lab](https://bailab.vn), National Economics University *(Aug 2025 to Present — Onsite)*
+- 📝 Peer-reviewed paper accepted at **CITA 2026** on Explainable cardiac diagnosis with Guide-Grounded Multimodal LLMs
 - 🌐 **Languages:** Vietnamese 🇻🇳 *(Native)* · English *(IELTS 6.0)* · Japanese 🇯🇵 *(JLPT N5)*
-- 🎯 **Goal:** Gain production-oriented AI internship experience solving real-world business problems, with an eye toward pursuing a PhD
+- 🎯 **Goal:** Looking forward to PhD Scholarship, gain production-oriented AI internship experience solving real-world business problems
 - 🔗 **Website:** [Personal Page](https://nonomiyaizumi.github.io/Vuong_Duy_Hai_Nam/)
 
 ---
@@ -59,7 +59,7 @@ Hi! I'm **Nam Vuong Duy Hai** — an undergraduate researcher in Generative AI, 
 
 ### [Business AI Lab](https://bailab.vn) — National Economics University
 
-**Research Assistant** · Hanoi, Vietnam *(Onsite)* · **Aug 2025 to Present**
+**Researcher** · Hanoi, Vietnam *(Onsite)* · **Aug 2025 to Present**
 
 - Researching explainable multimodal AI for Healthcare and Business/Economics
 - Working with ECG image data for clinical decision support and business analytics
@@ -105,7 +105,7 @@ Hi! I'm **Nam Vuong Duy Hai** — an undergraduate researcher in Generative AI, 
 | Project | Description | Date |
 |---------|-------------|------|
 | 🏥 **[AI Healthcare Chatbot](https://github.com/NonomiyaIzumi/AI_Chatbot)** | Multimodal LLM-powered patient Q&A chatbot combining RAG over medical documents with conversational reasoning | Jul 2026 |
-| 🎓 **[Smart Classroom Attendance via Face Recognition](https://github.com/NonomiyaIzumi/CPV391)** | Real-time face detection and recognition pipeline for automated classroom attendance tracking using YOLOv8 and OpenCV | Mar 2026 |
+| 🎓 **[Smart Classroom Attendance via Face Recognition](https://github.com/TuanLe303/EduVision)** | Real-time face detection and recognition pipeline for automated classroom attendance tracking using YOLOv8 and OpenCV | Mar 2026 |
 | ❤️ **[XAI-ECG: Explainable Cardiac Diagnosis](https://github.com/NonomiyaIzumi/XAI_ECG)** | Deep learning ECG classifier with RAG-grounded LLM explanations for interpretable cardiac diagnosis reports | Dec 2025 – Jan 2026 |
 
 ---
@@ -118,15 +118,6 @@ Hi! I'm **Nam Vuong Duy Hai** — an undergraduate researcher in Generative AI, 
 | **Deep Learning Specialization** | DeepLearning.AI | May 2026 |
 | **Ethics in the Age of AI** | LearnQuest | Aug 2025 |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonomiyaIzumi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
 
 ## 👨‍🏫 Reference
 
@@ -140,11 +131,11 @@ Hi! I'm **Nam Vuong Duy Hai** — an undergraduate researcher in Generative AI, 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-Personal_Page-FF6B6B?style=for-the-badge&logo=githubpages&logoColor=white)](https://nonomiyaizumi.github.io/Vuong_Duy_Hai_Nam/)
-[![GitHub](https://img.shields.io/badge/GitHub-namtvng-181717?style=for-the-badge&logo=github)](https://github.com/NonomiyaIzumi)
+[![GitHub](https://img.shields.io/badge/GitHub-namvng-181717?style=for-the-badge&logo=github)](https://github.com/NonomiyaIzumi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nam--vng-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nam-h%E1%BA%A3i-62843a3a2/)
 [![Email](https://img.shields.io/badge/Email-hainam3001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hainam3001@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B84--981--827--465-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84981827465)
-[![Telegram](https://img.shields.io/badge/Telegram-%40namtvng-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/IzumiNonomiya)
+[![Telegram](https://img.shields.io/badge/Telegram-%40namvng-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/IzumiNonomiya)
 
 </div>
 
