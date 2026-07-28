@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nam%20%7C%20Izumi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Researcher%20%C2%B7%20FPT%20University%20%C2%B7%20Hanoi%2C%20Vietnam&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nam%20%7C%20Izumi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Researcher%20%C2%B7%20FPT%20University%20%C2%B7%20Hanoi%2C%20Vietnam&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=Aspiring+AI+Researcher+%F0%9F%8C%B8;Multimodal+%7C+XAI+%7C+Multi-agent+Systems;PhD+Seeker+%F0%9F%8E%AF;Building+Explainable+AI+for+Healthcare+%F0%9F%8F%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=Aspiring+AI+Researcher+%F0%9F%8C%B8;Multimodal+%7C+XAI+%7C+Multi-agent+Systems;PhD+Seeker+%F0%9F%8E%AF;Building+Explainable+AI+for+Healthcare+%F0%9F%8F%A5" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,7 +23,7 @@ Hi! I'm **Nam** (also known as **Izumi** 🎋) — an AI Researcher based in Han
 - 📝 Paper accepted at **CITA 2026** (Springer) on Explainable Cardiac Diagnosis with Multimodal LLMs
 - 🌐 **Languages:** Vietnamese 🇻🇳 · English (IELTS 6.0) · Japanese 🇯🇵 (JLPT N5)
 - 🎯 **Goal:** PhD in AI — XAI · Multimodal Learning · Agentic LLM Systems
-- 🔗 **Website:** [nonomiyaizumi.github.io/Profile_web](https://nonomiyaizumi.github.io/Profile_web/)
+- 🔗 **Website:** [nonomiyaizumi.github.io/Profile_Vuong_Duy_Hai_Nam](https://nonomiyaizumi.github.io/Vuong_Duy_Hai_Nam/)
 
 ---
 
@@ -48,6 +48,7 @@ Hi! I'm **Nam** (also known as **Izumi** 🎋) — an AI Researcher based in Han
 
 **Journal Papers**
 
+**[J.1]** Nam Vuong Duy Hai, Trang Xuan Mai, Van Luong Thien.  
 **[J.1]** Nam Vuong Duy Hai et al.  
 *"Enhance Explainable AI using MultiAgent System"*  
 📝 *In Progress*
@@ -64,24 +65,24 @@ Hi! I'm **Nam** (also known as **Izumi** 🎋) — an AI Researcher based in Han
 **Machine Learning & Deep Learning**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </div>
 
 **LLM & Agents**
 
 <div>
-  <img src="https://img.shields.io/badge/OpenAI--Agents-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-FF6B6B?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI--Agents-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-FF6B6B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </div>
 
 **Tools & Others**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,latex&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,latex&theme=dark" />
 </div>
 
 ---
@@ -99,7 +100,7 @@ Hi! I'm **Nam** (also known as **Izumi** 🎋) — an AI Researcher based in Han
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonomiyaIzumi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonomiyaIzumi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -119,9 +120,9 @@ Hi! I'm **Nam** (also known as **Izumi** 🎋) — an AI Researcher based in Han
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NonomiyaIzumi&color=blueviolet&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=NonomiyaIzumi&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
