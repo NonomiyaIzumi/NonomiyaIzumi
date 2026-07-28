@@ -48,7 +48,7 @@ Hi! I'm **Nam** (also known as **Izumi** 🎋) — an AI Researcher based in Han
 
 **Journal Papers**
 
-**[J.1]** Nam Vuong Duy Hai, Trang Xuan Mai, Van Luong Thien.  
+**[J.1]** Nam Vuong Duy Hai et al.  
 *"Enhance Explainable AI using MultiAgent System"*  
 📝 *In Progress*
 
